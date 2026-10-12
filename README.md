@@ -1,5 +1,8 @@
 osu-macropad 🎮
 
+![pcb](assets/images/pcb!!!.png)
+
+
 A custom USB macropad designed in KiCad for osu!, gaming shortcuts, and everyday productivity.
 
 Features
